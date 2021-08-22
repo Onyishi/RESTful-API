@@ -1,0 +1,25 @@
+{
+  "name": "RESTful-API",
+  "version": "1.0.0",
+  "description": "RESTful API with Node.js | Prisma | PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onyishi/RESTful-API.git"
+  },
+  "keywords": [],
+  "author": "Onyishi Chetachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onyishi/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/Onyishi/RESTful-API#readme",
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.3.5"
+  }
+}
